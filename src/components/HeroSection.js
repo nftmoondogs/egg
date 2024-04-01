@@ -28,7 +28,7 @@ export default function HeroSection() {
         </h1>
         {
           isMobile ?
-            <img src="https://i.ibb.co/LZ9zp1N/200-X200-MEOW.png" alt="WOOF Logo" className="inline h-64" />
+            <img src="https://i.ibb.co/RcfnR35/tras.png" alt="WOOF Logo" className="inline h-64" />
           :
             <video 
               src="/videos/woof3d.webm" 
